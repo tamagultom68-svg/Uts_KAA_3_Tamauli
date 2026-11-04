@@ -1,0 +1,1 @@
+<section class="panel"><h2>Tentang MyStore</h2><p>MyStore adalah aplikasi manajemen toko sederhana berbasis PHP dengan pola arsitektur Model-View-Controller (MVC) dan database MySQL.</p><p>Fitur utama: autentikasi admin, dashboard, serta CRUD produk.</p></section>

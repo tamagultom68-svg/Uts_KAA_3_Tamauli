@@ -1,0 +1,1 @@
+<section class="hero"><p class="eyebrow">WELCOME TO</p><h2>MyStore Management System</h2><p>Kelola inventaris dan data produk toko dengan mudah melalui aplikasi berbasis PHP MVC.</p><a class="btn primary" href="<?= isset($_SESSION['user_id']) ? 'admin' : 'login' ?>">Masuk ke Dashboard</a></section>
