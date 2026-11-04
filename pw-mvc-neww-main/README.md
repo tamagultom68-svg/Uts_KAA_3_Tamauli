@@ -2,6 +2,8 @@
 
 ## Deskripsi
 MyStore adalah aplikasi manajemen toko sederhana berbasis PHP Native dengan pola arsitektur Model-View-Controller (MVC) dan database MySQL.
+
+## identitas mahasiswa
 Nama : Tamauli Gultom
 Nim : 25210011
 Prodi : Komputerisasi Akuntansi
